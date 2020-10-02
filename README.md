@@ -1,4 +1,4 @@
-# Wordpress-Reverse-Shell-Plugin
+# Wordpress Reverse Shell Plugin
 A simple php script you can upload as a plugin on a Wordpress site and get a reverse shell.
 
 ## Usage 
